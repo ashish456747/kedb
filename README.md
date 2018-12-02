@@ -1,3 +1,3 @@
 # kedb
-known error database project
+The Known Error Database Project.
 It's a test project. 
